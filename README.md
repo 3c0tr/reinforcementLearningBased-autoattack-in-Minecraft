@@ -3,7 +3,7 @@
 * Minecraft 1.19.2 with Forge
 * Pytroch
 
-![Alt](https://github.com/3c0tr/reinforcementLearningBased-autoattack-in-Minecraft/blob/main/%E6%BC%94%E7%A4%BA/Run.jpg)  
+![Alt](https://github.com/3c0tr/reinforcementLearningBased-autoattack-in-Minecraft/blob/main/%E6%BC%94%E7%A4%BA/srowdman.gif)   
 
 > 本项目采用截图目标检测(yolov5)的方式获取屏幕中怪物的位置，再通过自定义一个基于Forge的MOD获取游戏内事件，比如实体受伤/死亡事件，~~为什么不直接用Forge获取详细位置信息~~，以及随机生成地牢中的怪物，来实现全自动强化学习训练，试图教会Steve如何在地牢中对抗来袭的僵尸  
 
